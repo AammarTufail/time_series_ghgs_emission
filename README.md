@@ -3,9 +3,7 @@
 
 
 
-## Repository Link
-
-[link here]
+## [Repository Link](https://github.com/AammarTufail/time_series_ghgs_emission)
 
 ## Description
 
